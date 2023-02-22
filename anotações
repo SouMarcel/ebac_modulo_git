@@ -1,0 +1,14 @@
+padroes de nomenclatura para mensagens no commit
+
+chore - pequena tarefa
+git commit -m "chore: removendo arquivo.txt
+
+Fix - correções
+git commit -m "fix: correção da xxxxxxx"
+
+feat - inclusão de funconalidade
+git commit -m "feat: inclusao da função de calculo yyyyy"
+
+docs - atualização de documentação 
+git commit -m "docs: atualizado arquivo changelog.md
+
